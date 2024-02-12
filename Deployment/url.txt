@@ -1,0 +1,2 @@
+dataset = https://www.kaggle.com/datasets/abdelrahmanemad2199/corn-or-maize-leaf-disease-dataset
+Hugging Face Deployment = https://huggingface.co/spaces/Susantohamzah/CornDiseasePredictions
